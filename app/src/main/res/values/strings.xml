@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Temperature Calculator</string>
+    <string name="Celcius_Button">Celcius</string>
+    <string name="Fahrenheit_Button">Fahrenheit</string>
+    <string name="Calculator_button">Calculate</string>
+    <string name="Text_Value">Enter the temperature</string>
+    <string name="temperature_image">temperature</string>
+    <string name="Display_Text">Display the temperature</string>
+</resources>
